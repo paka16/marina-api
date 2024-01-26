@@ -14,10 +14,14 @@ CLOUD APPLICATION DEVELOPMENT - An implementation of a REST API with proper reso
 ## HOW-TO
 1. Get the necessary credentials:
 * Go to Auth0 - create an acctount and start a project. Get the credentials needed and add it to the .env file under the AUTHORIZATION comment (client_id, client_secret, and the domain).
-*  
-4. run the command:
+*  Add the Datastore API to the google account to be used.
+2. Add the necessary credentials to the .env file.
+3. run the command:
 ```npm start```
 <br>
 
 
 ## DOCUMENTATION
+Check the marina.pdf in the uploaded files for full documentation.
+<br>
+For testing, use the postman test collection and environment file. 
