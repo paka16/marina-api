@@ -13,7 +13,9 @@ CLOUD APPLICATION DEVELOPMENT - An implementation of a REST API with proper reso
   
 ## HOW-TO
 1. Get the necessary credentials:
-2. run the command:
+* Go to Auth0 - create an acctount and start a project. Get the credentials needed and add it to the .env file under the AUTHORIZATION comment (client_id, client_secret, and the domain).
+*  
+4. run the command:
 ```npm start```
 <br>
 
