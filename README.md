@@ -24,4 +24,3 @@ CLOUD APPLICATION DEVELOPMENT - An implementation of a REST API with proper reso
 ## DOCUMENTATION
 Check the marina.pdf in the uploaded files for full documentation.
 <br>
-For testing, use the postman test collection and environment file. 
